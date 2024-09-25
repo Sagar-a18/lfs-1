@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC "-//Hibernate/Hibernate Configuration DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+<session-factory >
+<property name="Hibernate.connection.driver">com.mysql.cj.jdbc.Driver</property>
+<property name="Hibernate.connection.url"></property>
+<property name="hibernate.connection.uesrname">root</property>
+<property name="Hibernate.connection.password">1260</property>
+<property name="hibernate.dialect">org.hibernate.dialect.MYSQLDialect</property>
+
+</session-factory>
+
+</hibernate-configuration>

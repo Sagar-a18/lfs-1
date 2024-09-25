@@ -1,0 +1,21 @@
+package krishna;
+
+import java.util.Scanner;
+
+public class K {
+
+	public static void main(String[] args) {
+	int a; 
+	System.out.println("enter the num ");
+	Scanner sc =new Scanner (System.in);
+	a=sc.nextInt();
+	if(a%2==0) {
+		System.out.println("thy is even num"+a);
+	}
+	else{
+		System.out.println("thy is even"+a);
+	}
+
+	}
+
+}

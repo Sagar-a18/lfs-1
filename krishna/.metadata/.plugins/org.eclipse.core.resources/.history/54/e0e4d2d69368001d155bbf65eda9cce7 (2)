@@ -1,0 +1,14 @@
+package krishna;
+
+import java.util.Scanner;
+
+public class K{ 
+	
+	public static void main(tring[]args) {
+		scanner sc=new scqanner(system.in);
+	
+	}
+
+	}
+
+}

@@ -1,0 +1,13 @@
+package krishna;
+
+import java.util.Scanner;
+
+public class K{ 
+	
+	public static void main(trings[]args);
+Scanner sc=new Scanner(System.in)
+	int a=sc.next
+
+	}
+
+}
